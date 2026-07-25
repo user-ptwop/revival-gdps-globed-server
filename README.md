@@ -1,1 +1,1 @@
-# revival-gdps-globed-server
+# revival-gdps-bot
